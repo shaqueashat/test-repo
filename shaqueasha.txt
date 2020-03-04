@@ -1,4 +1,2 @@
 shaqueasha.txt
-My oh My! What have
-we here? This homework is not
-clear enough for ME!
+I removed the text
